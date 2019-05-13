@@ -1,6 +1,6 @@
 name: Rancher-Demo
 description: |
     Deploys basic Openstack Kolla deployment
-version: 2.0.0-rancher
+version: 3.6.0-rancher1
 category: Applications
 maintainer: Rancher Labs
